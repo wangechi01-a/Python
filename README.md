@@ -1,2 +1,2 @@
 # Python-Scripts
-Small projects for learning python for beginners
+Beginner python projects 
