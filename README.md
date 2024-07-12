@@ -1,2 +1,2 @@
 # Python-Scripts
-Beginner python projectS
+Beginner python projects
